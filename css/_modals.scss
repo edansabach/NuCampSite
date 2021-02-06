@@ -1,0 +1,16 @@
+$color-mid: #901cad;
+$color-teal: #17a2b8;
+
+#reserveModal {
+  .modal-header {
+    background-color: $color-teal;
+    color: white;
+  }
+}
+
+#loginModal {
+  .modal-header {
+    background-color: $color-mid;
+    color: white;
+  }
+}
